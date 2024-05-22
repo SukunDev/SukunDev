@@ -4,6 +4,12 @@
 - 📫 Email me at sukundev32@gmail.com for any inquiries.
 - 🐧 Connect with me on [LinkedIn](https://www.linkedin.com/in/lutfi-ainun-najih)
 
+
+### Compleate Project
+- [Aplikasi Penjadwalan Kuliah](https://github.com/SukunDev/aplikasi-penjadwalan-kuliah) - Vue JS
+- [Aplikasi Pemesanan Kereta](https://github.com/SukunDev/aplikasi-pemesanan-kereta) - Python
+- [Perhitungan Doppler dan FFT](https://github.com/SukunDev/perhitungan-doppler-dan-fft)- python
+- [Scrapping Twitter](https://github.com/SukunDev/twitter-scrape) - Python
 <!--
 **SukunDev/SukunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
