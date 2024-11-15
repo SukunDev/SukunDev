@@ -63,3 +63,11 @@
 <img src="https://raw.githubusercontent.com/decryptable/decryptable/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### Compleate Project
+- [Aplikasi Penjadwalan Kuliah](https://github.com/SukunDev/aplikasi-penjadwalan-kuliah) - Vue JS
+- [Aplikasi Pemesanan Kereta](https://github.com/SukunDev/aplikasi-pemesanan-kereta) - Python
+- [Perhitungan Doppler dan FFT](https://github.com/SukunDev/perhitungan-doppler-dan-fft) - Python
+- [Protofolio Adhitya Bagus Kurniawan](https://github.com/SukunDev/protofolio-adhitya-bagus-kurniawan) - Laravel
+- [Scrapping Twitter](https://github.com/SukunDev/twitter-scrape) - Python
+- [Market Place ECM](https://github.com/SukunDev/flutter-market-place-ecm) - Flutter
